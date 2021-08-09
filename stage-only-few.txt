@@ -1,0 +1,6 @@
+initial line
+line2
+
+line3
+
+next line
